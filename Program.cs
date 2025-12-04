@@ -8,6 +8,7 @@ do
     var config = JsonSerializer.Deserialize<Config>(json);
 
     string path = config.path;
+    int expiration_days = config.expiration_days;
     int interval = 60000 * config.time_minutes;
 
     if (Directory.Exists(path))
@@ -39,7 +40,7 @@ do
             TimeSpan createdSince = currentDate - info.CreationTime;
             Console.WriteLine($"\tCriado há: {createdSince.Days} dias {createdSince.Hours} horas {createdSince.Minutes} minutos {createdSince.Seconds} segundos");
 
-            if(createdSince.Days > 30)
+            if(createdSince.Days > expiration_days)
             {
                 Console.WriteLine($"\n{info.Name} excluído!");
 
@@ -70,5 +71,6 @@ do
 public class Config
 {
     public string path { get; set; }
+    public int expiration_days { get; set; }
     public int time_minutes { get; set; }
 }
