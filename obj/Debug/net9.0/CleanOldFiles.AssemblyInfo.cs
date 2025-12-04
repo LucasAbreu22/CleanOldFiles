@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanOldFiles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cd00cffc48e4c56079dab937bab1d1ab6a11936")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanOldFiles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanOldFiles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\bin\Debug\net9.0\CleanOldFiles.exe
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\bin\Debug\net9.0\CleanOldFiles.deps.json
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\bin\Debug\net9.0\CleanOldFiles.runtimeconfig.json
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\bin\Debug\net9.0\CleanOldFiles.dll
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\bin\Debug\net9.0\CleanOldFiles.pdb
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\obj\Debug\net9.0\CleanOldFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\obj\Debug\net9.0\CleanOldFiles.AssemblyInfoInputs.cache
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\obj\Debug\net9.0\CleanOldFiles.AssemblyInfo.cs
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\obj\Debug\net9.0\CleanOldFiles.csproj.CoreCompileInputs.cache
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\obj\Debug\net9.0\CleanOldFiles.sourcelink.json
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\obj\Debug\net9.0\CleanOldFiles.dll
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\obj\Debug\net9.0\refint\CleanOldFiles.dll
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\obj\Debug\net9.0\CleanOldFiles.pdb
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\obj\Debug\net9.0\CleanOldFiles.genruntimeconfig.cache
+C:\Users\p_921456\Documents\CsharpProjects\CleanOldFiles\obj\Debug\net9.0\ref\CleanOldFiles.dll
